@@ -1,2 +1,2 @@
-# susprocexctractor
-Suspicious Process &amp; Artifact Extraction Script
+# Suspicious Process Extractor
+Suspicious Process & Artifact Extraction Script
